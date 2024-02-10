@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
                 apply()
             }
         }
+        println("deneme")
 
         ButtonTatli = findViewById(R.id.ButtonTatli)
         buttonTuzlu = findViewById(R.id.buttonTuzlu)
