@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        println("sagfds")
+
         ButtonTatli = findViewById(R.id.ButtonTatli)
         buttonTuzlu = findViewById(R.id.buttonTuzlu)
         buttondrink = findViewById(R.id.buttondrink)
