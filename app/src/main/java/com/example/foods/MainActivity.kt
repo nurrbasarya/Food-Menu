@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-
         ButtonTatli = findViewById(R.id.ButtonTatli)
         buttonTuzlu = findViewById(R.id.buttonTuzlu)
         buttondrink = findViewById(R.id.buttondrink)
